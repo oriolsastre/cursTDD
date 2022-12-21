@@ -16,6 +16,7 @@ Si fem canvis petits, cal buscar sempre el test
 
 test fail -> test passed -> refactoritzar -> inici
 
+Un canvi meu
 
 
 
